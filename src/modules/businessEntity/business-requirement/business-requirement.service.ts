@@ -1,0 +1,12 @@
+import { generateReference, generateTemporaryPassword, getAllPermissions } from '../../../utils/misc';
+import { BadRequestException } from '../../../utils/errors/BadRequestException';
+import mongoose from '../../../utils/mongo';
+import { BusinessEntityTypes, IndustrySectors } from '../business.constant';
+import { AddFrameworkToBusinessDTO, CreateBusinessDTO, GetAllBusinessesDTO, GetBusinessUsersDTO, InviteNewBusinessAdminDTO, businessProfileDTO } from '../business.interface';
+import businessRepository from './business-requirement.repository';
+import slugify from 'slugify';
+import { auditorPermissions, superAdminPermissions, supportStaffPermissions, systemAdministratorPermission, vegeelSuperAdminPermissions } from '../../role/permission';
+import { IBusinessRequirement } from './business-requirement.model';
+import { userTypes } from '../../users/users.enum';
+import bcrypt from 'bcrypt';
+import frameworkRepository from '../../framework/framework.repository';
