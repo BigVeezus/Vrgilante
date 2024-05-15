@@ -1,0 +1,1208 @@
+index,sub_index,title,sub_title,objective,guidance,suggested_evidence,document
+4,,Context of the organisation,,,,,
+4.1,,Understanding the organisation and its context,,The organisation shall determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcome(s) of its information security management system,"• Clearly define the aims of the ISMS aligned with the organization's overall goals and vision
+• Actively engage and seek input from relevant stakeholders on information security needs
+• Establish a comprehensive ISMS scope encompassing all critical information assets and processes
+Conduct thorough risk assessments to identify and analyze internal and external threats and vulnerabilities
+Develop and implement effective risk treatment plans to address identified vulnerabilities and mitigate potential impacts",Context of Organisation documents interested parties and their interests and was signed off by the Management Review Team <date of meeting>,Context of Organisation
+4.2,,Understanding the needs and expectations of interested parties,The organisation shall determine:,"
+a) interested parties that are relevant to the information security management system 
+","•  Conduct comprehensive stakeholder identification and analysis to understand their information security needs.
+• Maintain a regularly updated register of applicable laws, regulations, and contractual obligations.
+•  Implement a robust contract review and compliance process to ensure proper information security safeguards.
+•  Regularly monitor compliance with legal and regulatory requirements through audits and reviews.
+•  Document clear procedures for managing contractual obligations and handling legal an+D7:E13d regulatory compliance.
+•  Train personnel on their responsibilities for identifying and addressing information security needs of interested parties",Context of Organisation documents interested parties and their interests and was signed off by the Management Review Team <date of meeting>,Context of Organisation
+4.2,,Understanding the needs and expectations of interested parties,,b) the relevant requirements of these interested parties,"• Implement a structured process for analyzing and documenting interested party requirements.
+• Seek expert advice on legal and regulatory requirements to ensure correct interpretation.
+• Review contracts thoroughly and involve legal counsel as needed for security implications.
+• Maintain a centralized and accessible register of information security requirements.
+• Regularly review and update requirements based on changes in stakeholder needs, laws, or contracts.
+• Provide training to relevant personnel on identifying and managing information security requirements.",Context of Organisation documents interested parties and their interests and was signed off by the Management Review Team <date of meeting>,
+4.2,,Understanding the needs and expectations of interested parties,,"c) which of these requirements will be addressed through the information security management
+system.","• Conduct a comprehensive risk assessment to inform scope definition and requirements prioritization.
+• Involve relevant stakeholders in the scope and requirements identification process.
+• Use a structured approach for gap analysis to identify missing or inadequate controls.
+• Base control selection on industry best practices, risk assessment findings, and cost-benefit analysis.
+• Document and communicate the ISMS scope and requirements to all relevant personnel.
+• Regularly review and update the scope and requirements to align with changing business needs and threats.",Context of Organisation documents interested parties and their interests and was signed off by the Management Review Team <date of meeting>,
+4.3,,Determining the scope of the information security management system,,"The organisation shall determine the boundaries and applicability of the information security management system to establish its scope.
+",,Documented ISMS Scope documents the scope and the boundaries and was signed off by the Management Review Team <date of meeting>,ISMS Scope document
+4.3,,Determining the scope of the information security management system,"
+ When determining this scope, the organisation shall consider:","a) the external and internal issues referred to in 4.1 
+","Conduct a risk assessment to identify external threats and vulnerabilities related to information security.
+Review relevant legal and regulatory requirements.
+Analyze stakeholder expectations and contractual obligations.
+Consider business continuity and disaster recovery needs.","Documented ISMS Scope documents the scope and the boundaries and was signed off by the Management Review Team <date of meeting>.
+
+It is evidenced as taking into consideration the Context of Organisation document and the Organisation Overview",
+4.3,,Determining the scope of the information security management system,,"b) the requirements referred to in 4.2
+","Conduct an information asset inventory and classification.
+Identify key business processes and workflows that involve information assets.
+Review existing security controls and their effectiveness.
+Analyze the organization's internal structure and information systems landscape.","Documented ISMS Scope documents the scope and the boundaries and was signed off by the Management Review Team <date of meeting>
+
+It is evidenced as taking into consideration the Context of Organisation document and the Organisation Overview",
+4.3,,Determining the scope of the information security management system,,"c) interfaces and dependencies between activities performed by the organisation, and those that are performed by other organisations.","Identify all external interfaces and dependencies related to information security.
+Analyze the security implications of each interface and dependency.
+Determine the scope of the ISMS to address these interfaces and dependencies.","Documented ISMS Scope documents the scope and the boundaries and was signed off by the Management Review Team <date of meeting>
+
+Overview diagrams are in place and set out diagrammatically the boundaries and the scope. ",
+4.4,,Information security management system,,"The organization shall establish, implement, maintain and continually improve an information security
+management system, including the processes needed and their interactions, in accordance with the
+requirements of this document.","• Conduct a comprehensive gap assessment against ISO 27001 requirements.
+• Develop clear and comprehensive ISMS policies, procedures, plans, and forms.
+• Implement ISMS processes systematically and provide adequate resources.
+• Train personnel on ISMS processes and their responsibilities.
+• Regularly monitor and measure ISMS performance using appropriate metrics.
+• Conduct internal audits to assess ISMS compliance and identify improvement opportunities.
+• Hold management reviews to evaluate ISMS effectiveness and make strategic decisions.
+• Maintain accurate and up-to-date ISMS documentation and records.","The information security system is in place and evidenced and is high level described in document: The Information Security Management System
+
+There is a Continual Improvement Policy and Continual Improvement Process in place and operating. 
+
+Processes are document and there is an Operations Security Manual in place documenting processes as well as individual guides specific to the ISMS. ",
+5,,Leadership,,,,,
+5.1,,Leadership and commitment,Top management shall demonstrate leadership and commitment with respect to the information security management system by:,"
+
+a) ensuring the information security policy and the information security objectives are established and are compatible with the strategic direction of the organisation 
+","Develop and formally document an Information Security Policy (ISP) aligned with the organization's strategic goals and risk profile.
+Establish clear information security objectives measurable, achievable, relevant, and time-bound (SMART).
+Ensure the ISP and objectives are communicated and understood at all levels of the organization.","Information security policies are in place. They are documented and evidenced as reviewed, approved, communicated and accepted.
+
+Document: 1 Organisation Overview describes the business and its objectives and mission and values. 
+
+Document: The Information Security Management System sets out the framework for deciding information security objectives as a working document and the Information Security Objectives are documented and communicated in the information security policy. These take into account the Organisation Overview documented findings including the business objectives.",
+5.1,,Leadership and commitment,,b) ensuring the integration of the information security management system requirements into the organisation’s processes;,"Integrate information security requirements into relevant business processes, procedures, and activities.
+Review and update processes to address security risks and vulnerabilities.
+Conduct training and awareness programs on information security for relevant personnel.","Information security policies are in place. They are documented and evidenced as reviewed, approved, communicated and accepted.
+
+There is an Security Operations Manual in place with documented processes that are evidenced as documented, reviewed, approved and operational. 
+
+
+There is an incident management process and continual improvement process in place and evidenced.
+
+There is a process of internal audit evidenced against the standard and the operational controls. 
+
+",
+5.1,,Leadership and commitment,,"c) ensuring that the resources needed for the information security management system are available;
+","Allocate sufficient resources (financial, personnel, time) for ISMS implementation, operation, and maintenance.
+Define roles and responsibilities for information security within the organization.
+Provide necessary tools and technologies to support information security controls.","The context of organisation has taken into account resources as part of internal issues. 
+
+Roles and responsibilities are documented in the Information Security Roles Assigned and Responsibilities document and roles assignment is evidenced along with appropriate deputies.
+
+There is an Information Security Management System Document Tracker.xlsx in place that is used to assign owners to the ISMS documents and it was evidenced as being up to date. 
+
+There is an Annex A Accountability Matrix,  ISMS Annex A Controls - Accountability Matrix - ISO 27002 2022 and 2013 - in place that sets out the control requirements and is evidenced as assigning ownership and responsibility to controls. 
+
+There is a competency matrix in place that sets out the required competencies for information security and those allocated roles in the Information Security Management System have been included. It tracks the level of competence and as evidenced as being used to also identify gaps and training requirements. ",
+5.1,,Leadership and commitment,,d) communicating the importance of effective information security management and of conforming to the information security management system requirements;,"Regularly communicate the importance of information security to all personnel.
+Promote awareness of the ISMS, its objectives, and roles and responsibilities.
+Encourage reporting of security incidents and concerns.","Organisation Overview describes the business and its objectives and mission and values. 
+
+The Information Security Management System sets out the information security objectives based on the Organisation Overview. 
+
+The main information security policy includes the information security objectives and a commitment statement from the chief executive. 
+
+Information Security Awareness and Training Policy sets out the training and awareness and evidence was seen of the operation. 
+
+Information security policies are in place and process are operating in line with the standard and evidenced as reviewed, approved, communicated and accepted. 
+
+A training tool is in operation with all staff enrolled. Basic modules on information security and data protection have been completed a plan of future training was evidenced. 
+
+A Communication Plan is in place and sets out the communications for the year across media and approaches. It includes what will be communicated, by whom, when, to who and how and records evidence of past communications. 
+
+A management review team is documented in the Information Security Roles Assigned and Responsibilities document with allocation in place for roles and appropriate deputies and a structured agenda is evidence as being used with examples of previous meetings minuted. 
+
+Contracts are seen to be in place both with appropriate suppliers and staff that include clauses for information security. ",
+5.1,,Leadership and commitment,,e) ensuring that the information security management system achieves its intended outcome(s);,"Define and monitor key performance indicators (KPIs) to measure the effectiveness of the ISMS.
+Conduct regular internal audits and management reviews to evaluate ISMS performance.
+Continuously improve the ISMS based on audit findings and risk assessments.","Organisation Overview describes the business and its objectives and mission and values. 
+
+The Information Security Management System document sets out the information security objectives based on the Organisation Overview. 
+
+The main information security policy includes the information security objectives and a commitment statement from the chief executive. 
+
+There is a process of incident management in place with an operating incident and corrective log.
+
+There is a process of internal audit in place with internal audits evidenced. 
+
+There is a process of continual improvement in place that includes internal audits and incident management to continually improve the effectiveness of the ISMS in line with the objectives. 
+
+There is a management review meeting that is evidenced as meeting and following the required structured agenda that includes the tracking of progress against the objectives. 
+
+Measures have been determined for the objectives and are being tracked and reported to the management review team meeting. 
+
+There is a regular review of the objectives evidenced with an annual review in place. 
+",
+5.1,,Leadership and commitment,,f ) directing and supporting persons to contribute to the effectiveness of the information security management system;,"Provide leadership and support to personnel to fulfill their information security responsibilities.
+Delegate appropriate authority and accountability for information security within the organization.
+Recognize and reward employees who contribute to information security excellence.","Employment contracts and third party contracts include coverage of information security requirements. 
+
+There is a competency matrix in place that sets out the required competencies for information security and those allocated roles in the Information Security Management System have been included. It tracks the level of competence and as evidenced as being used to also identify gaps and training requirements. 
+
+Information Security Awareness and Training Policy sets out the training and awareness and evidence was seen of the operation. 
+
+Information security policies are in place and process are operating in line with the standard and evidenced as reviewed, approved, communicated and accepted. 
+
+A training tool is in operation with all staff enrolled. Basic modules on information security and data protection have been completed a plan of future training was evidenced. 
+
+A Communication Plan is in place and sets out the communications for the year across media and approaches. It includes what will be communicated, by whom, when, to who and how and records evidence of past communications. 
+
+Roles and responsibilities are documented in Information Security Roles Assigned and Responsibilities  document and roles assignment is evidenced along with appropriate deputies.
+
+There is an Information Security Management System Document Tracker in place that is used to assign owners to the ISMS documents and it was evidenced as being up to date. 
+
+There is an ISMS Annex A Controls - Accountability Matrix - ISO 27002 2022 and 2013 in place that sets out the control requirements and is evidenced as assigning ownership and responsibility to controls. 
+
+There is an Security Operations Manual in place with documented processes that are evidenced as documented, reviewed, approved and operational.",
+5.1,,Leadership and commitment,,"g) promoting continual improvement; and
+","Establish a process for continual improvement of the ISMS based on risk assessments, audits, and feedback.
+Identify and implement opportunities for improvement based on lessons learned and emerging threats.
+Review and update the ISMS periodically to maintain its effectiveness.","There is a process of incident management in place with an operating incident and corrective log.
+
+There is a process of internal audit in place with internal audits evidenced. 
+
+There is a process of continual improvement in place that includes internal audits and incident management to continually improve the effectiveness of the ISMS in line with the objectives. 
+
+A Communication Plan is in place and sets out the communications for the year across media and approaches. It includes what will be communicated, by whom, when, to who and how and records evidence of past communications. 
+
+A training tool is in operation with all staff enrolled. Basic modules on information security and data protection have been completed a plan of future training was evidenced. 
+
+As well as operational updates an annual review of the ISMS including risks and objectives in place and evidenced.",
+5.1,,Leadership and commitment,,h) supporting other relevant management roles to demonstrate their leadership as it applies to their areas of responsibility.,"Provide guidance and support to other managers to integrate information security into their areas of responsibility.
+Ensure all managers understand their roles and responsibilities in information security.
+Hold managers accountable for the information security performance within their areas.","Roles and responsibilities are documented in Information Security Roles Assigned and Responsibilities document and roles assignment is evidenced along with appropriate deputies.
+
+There is an Information Security Management System Document Tracker in place that is used to assign owners to the ISMS documents and it was evidenced as being up to date. 
+
+There is an ISMS Annex A Controls - Accountability Matrix - ISO 27002 2022 and 2013 in place that sets out the control requirements and is evidenced as assigning ownership and responsibility to controls. 
+
+There is an Security Operations Manual in place with documented processes that are evidenced as documented, reviewed, approved and operational.
+
+A Communication Plan is in place and sets out the communications for the year across media and approaches. It includes what will be communicated, by whom, when, to who and how and records evidence of past communications. 
+
+A training tool is in operation with all staff enrolled. Basic modules on information security and data protection have been completed a plan of future training was evidenced. 
+
+Contracts are seen to be in place both with appropriate suppliers and staff that include clauses for information security. 
+
+There is a competency matrix in place that sets out the required competencies for information security and those allocated roles in the Information Security Management System have been included. It tracks the level of competence and as evidenced as being used to also identify gaps and training requirements. ",
+5.2,,Policy,Top management shall establish an information security policy that:,"
+a) is appropriate to the purpose of the organisation; 
+","Conduct a risk assessment to identify the organization's information security risks.
+Analyze the organization's business context, industry, and legal environment.
+Identify the organization's information assets and their criticality.
+Consider the organization's overall goals and objectives.","Document: 1 Organisation Overview describes the business and its objectives and mission and values. 
+
+
+Document: The Information Security Management System sets out the information security objectives as a working document and the Information Security Objectives are documented and communicated in the information security policy. These take into account the Organisation Overview documented findings including the business objectives.
+
+A risk management process is in place and risk management is documented. There is a risk appetite documented and this is evidenced as being a driver to the information security policy. In addition there is an active risk register with risk management. 
+
+The information security policy and subordinate policies are seen to have taken into account both the scope of the ISMS and the documented statement of applicability.",
+5.2,,Policy,,"
+b) includes information security objectives or provides the framework for setting information security objectives;
+","Define clear and measurable information security objectives aligned with the organization's overall goals.
+Alternatively, establish a framework for setting objectives with defined criteria and processes.","Document: 1 Organisation Overview describes the business and its objectives and mission and values. 
+
+
+Document: The Information Security Management System sets out the information security objectives as a working document and the Information Security Objectives are documented and communicated in the information security policy. These take into account the Organisation Overview documented findings including the business objectives.",
+5.2,,Policy,,"c) includes a commitment to satisfy applicable requirements related to information security; 
+","Identify all relevant legal, regulatory, and contractual requirements related to information security.
+Define how the organization will comply with these requirements.","Document: Information Security Policy is the main information security policy and is part of a framework of policies. It includes the Information Security Objectives. It includes the requirements to meet legal and regulatory obligations. It includes a commitment to continual improvement. 
+
+Document:  Legal and Contractual Requirements Register sets out the legal, regulatory and contractual obligations 
+
+Document: Continual Improvement Policy sets out the continual improvement policy and there is a continual improvement process.
+
+The information security management system and associated documents are available electronically to the organisation based on the persons role and business need.
+
+Document: Communication Plan sets out the communications for the year across media and approaches
+
+Documents are available to interested parties based on Non Disclosure Agreements and Contracts being place.
+",
+5.2,,Policy,,d) includes a commitment to continual improvement of the information security management system.,"Define a continuous improvement process for the ISMS.
+Establish metrics to measure the effectiveness of the ISMS.","The Information Security Policy includes a commitment to continual improvement. 
+
+There is a continual improvement policy and a continual improvement process document and evidenced as in operation. 
+",
+5.2,,Policy,The information security policy shall:,"
+e) be available as documented information;
+","Develop a documented information security policy.
+Maintain the policy in a readily accessible format.",The information security management system and associated documents are available electronically to the organisation based on the persons role and business need.,
+5.2,,Policy,,"f ) be communicated within the organisation; 
+","Communicate the information security policy to all relevant employees.
+Conduct awareness training on the policy's content and requirements.","A Communication Plan is in place and sets out the communications for the year across media and approaches. It includes what will be communicated, by whom, when, to who and how and records evidence of past communications. 
+
+The Information Security Policy and location of the policy are evidenced as being communicated.",
+5.2,,Policy,,"g) be available to interested parties, as appropriate.","Identify relevant interested parties (e.g., customers, suppliers, regulators).
+Determine the appropriate level of access to the policy for each interested party.","The information security policy and associated documents are made available to interested parties. 
+
+Where the interested parties are outside of the organisation controls non disclosure agreements and contracts are in place as appropriate.
+
+Document classification is in place and appropriate policy and procedures are in place for the handling of information based on the classification ( Information Classification and Handling Policy ). 
+
+Access control policy and procedures are in place and evidenced.
+",
+5.3,,"Organisational roles, responsibilities and authorities",,"Top management shall ensure that the responsibilities and authorities for roles relevant to information security are assigned and communicated within the organization.
+
+Top management shall assign the responsibility and authority for:
+
+a) ensuring that the information security management system conforms to the requirements of this document
+","Define the role: Clearly define a role responsible for overseeing ISMS compliance with ISO 27001:2022 requirements. This could be a dedicated Information Security Officer (ISO) or someone with combined responsibilities.
+Assign authority: Grant the designated role appropriate authority to implement, monitor, and enforce ISMS controls and processes.
+Document responsibilities: Clearly document the responsibilities of the assigned role in detail, including specific tasks and procedures for ensuring compliance.
+Provide resources: Allocate necessary resources (e.g., budget, staff, training) to the role to effectively fulfill their responsibilities.
+Communication: Communicate the role's responsibilities and authority to all relevant personnel within the organization.","Document: Information Security Roles Assigned and Responsibilities sets out the roles and responsibilities with allocated resource. 
+
+A Management Review Team is in place with representatives from across the business. 
+
+Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+ Management Review Team is documented in the document:  Information Security Roles Assigned and Responsibilities and has responsibility for overseeing the Information Security Management System. This group reports to the board and has board representation and certain board designated authority for decision making. The Management Review Team meeting at least quarterly and follow the agenda as defined in the standard.",
+5.3,,"Organisational roles, responsibilities and authorities",,b) reporting on the performance of the information security management system to top management.,"Define reporting requirements: Determine the frequency, format, and content of reports on ISMS performance to be submitted to top management.
+Identify reporting channels: Establish clear reporting channels from the responsible individual/department to top management.
+Develop reporting metrics: Define key performance indicators (KPIs) and metrics to measure the effectiveness of the ISMS in achieving its objectives.
+Collect data and analyze: Regularly gather data related to ISMS performance and analyze it to identify areas for improvement.
+Prepare reports: Compile meaningful reports that summarize ISMS performance, highlight key findings, and propose recommendations for improvement.",Management Review Team is documented in the document:  Information Security Roles Assigned and Responsibilities and has responsibility for overseeing the Information Security Management System. This group reports to the board and has board representation and certain board designated authority for decision making. The Management Review Team meeting at least quarterly and follow the agenda as defined in the standard.,
+6,,Planning,,,,,
+6.1,,Actions to address risks and opportunities,,,,,
+6.1,6.1.1,General,,"When planning for the information security management system, the organisation shall consider the issues referred to in 4.1 and the requirements referred to in 4.2 and determine the risks and opportunities that need to be addressed to:
+
+a) ensure the information security management system can achieve its intended outcome(s); ","Define the intended outcomes of your ISMS (e.g., improved data security, enhanced compliance, reduced risk).
+Align ISMS objectives with business goals and strategic plans.
+Conduct risk assessments and identify risks that could impact achieving ISMS outcomes.
+Develop risk treatment plans with actions to mitigate those risks.
+Monitor key performance indicators (KPIs) aligned with ISMS outcomes.","4.1 and 4.2 are addressed in Context of Organisation which documents internal and external issues and interested parities and appropriate issues where required are on the risk registered with reference links. 
+
+
+Document: Risk Management Policy and risk management process are in place.
+
+Document: ISMS Risk Register captures, manages and reports risks. These are reported to and overseen by the Management Review Team. 
+
+Risk Management is part of the continual improvement policy and process, document: Continual Improvement Policy
+
+Continual improvement is managed, tracked and reported using document: Incident and Corrective Action Log",
+6.1,6.1.1,General,,"b) prevent, or reduce, undesired effects; 
+","Identify potential undesired effects of information security incidents (e.g., data breaches, reputational damage).
+Conduct risk assessments to identify vulnerabilities that could lead to these effects.
+Implement preventive controls to mitigate those risks (e.g., access controls, security awareness training).
+Develop incident response plans to address and minimize the impact of incidents.
+Conduct regular testing and evaluation of controls to ensure effectiveness.","There is a Risk Management Policy and Risk Management Process. 
+
+The ISMS Risk Register captures, manages and reports risks. These are reported to and overseen by the Management Review Team. ",
+6.1,6.1.1,General,,"c) achieve continual improvement.
+","Establish a process for continual improvement of the ISMS.
+Define metrics to measure ISMS performance against defined objectives.
+Conduct regular internal audits and management reviews to identify areas for improvement.
+Implement corrective actions based on audit findings and identified improvement opportunities.
+Encourage a culture of continuous learning and improvement within the organization.","
+
+There is a Continual Improvement Policy and a Continual Improvement Process in place and evidenced.
+
+Continual improvement is managed, tracked and reported using document: Incident and Corrective Action Log
+
+Continual Improvement is overseen by the management review team and forms part of the management review team structured agenda. 
+
+",
+6.1,6.1.1,General,The organisation shall plan:,"
+d) actions to address these risks and opportunities; and","Based on risk assessments, identify and prioritize risk treatment actions and potential opportunities to exploit.
+Develop and document risk treatment plans, including controls, responsible parties, and timelines.
+Define actions to capitalize on identified opportunities, considering resource availability and alignment with ISMS objectives.","There is a risk management policy and risk management process in place and evidenced as operational. 
+
+There is an annual risk review with risk review meeting minutes.
+
+Risks are also reported to and overseen by the Management Review Team. 
+
+Document: ISMS Risk Register captures, manages and reports risks. These are reported to and overseen by the Management Review Team. 
+
+Risk Management is part of the continual improvement policy and process, document: Continual Improvement Policy
+
+Continual improvement is managed, tracked and reported using document: Incident and Corrective Action Log",
+6.1,6.1.1,General,,"e) how to
+ 1) integrate and implement these actions into its information security management system processes; and
+ 2) evaluate the effectiveness of these actions.","Integrate risk treatment and opportunity exploitation actions into relevant ISMS processes (e.g., risk management, asset management, incident response).
+Assign ownership and accountability for implementing actions.
+Allocate resources and budget for action implementation.
+Communicate and train employees on their roles and responsibilities in implementing actions.","There is a risk management policy and risk management process in place and evidenced as operational. 
+
+There is an annual risk review with risk review meeting minutes.
+
+Risks are also reported to and overseen by the Management Review Team. 
+
+Document: ISMS Risk Register captures, manages and reports risks. These are reported to and overseen by the Management Review Team. 
+
+Risk Management is part of the continual improvement policy and process, document: Continual Improvement Policy
+
+Continual improvement is managed, tracked and reported using document: Incident and Corrective Action Log",
+6.1,6.1.2,Information security risk assessment,The organisation shall define and apply an information security risk assessment process that:,,,"There is a risk management process in place and documented. 
+
+There is a Risk Management Policy in place
+
+There is an ISMS Risk Register in place and used for managing risks",
+6.1,6.1.2,Information security risk assessment,,"
+a) establishes and maintains information security risk criteria that include:
+ 1) the risk acceptance criteria; and
+ 2) criteria for performing information security risk assessments;
+","Determine acceptable levels of risk for confidentiality, integrity, and availability based on organizational objectives and risk tolerance.
+Document criteria for accepting, mitigating, transferring, or rejecting risks.
+Specify the frequency and scope of risk assessments (e.g., annual, system-specific).
+Establish methodologies for identifying, analyzing, and evaluating risks.
+Define roles and responsibilities for conducting risk assessments.","There is a risk management process in place and documented that includes risk criteria. 
+
+There is an ISMS Risk Register in place. 
+
+Both the Risk Register and the Risk Process document the risk acceptance criteria. ",
+6.1,6.1.2,Information security risk assessment,,"b) ensures that repeated information security risk assessments produce consistent, valid and comparable results;","Implement a standardized risk assessment methodology across the organization.
+Train personnel involved in risk assessments on the methodology.
+Utilize risk assessment tools and templates to ensure consistency.
+Conduct internal audits to verify the consistency of risk assessments.","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register ",
+6.1,6.1.2,Information security risk assessment,,"c) identifies the information security risks:
+ 1) apply the information security risk assessment process to identify risks associated with the loss of confidentiality, integrity and availability for information within the scope of the information security management system; and
+ 2) identify the risk owners","Identify information assets within the ISMS scope.
+Classify information assets based on confidentiality, integrity, and availability requirements.
+Apply the risk assessment methodology to identify threats and vulnerabilities associated with each asset.
+Assign risk owners for identified risks.","Risk Identification is part of the risk management process. 
+
+There is an annual risk review meeting that is documented and minuted and includes risk identification. 
+
+Risk identification is part of the continual improvement process that encompasses the internal audit process, incident management process that can generate risks. 
+
+Risk identification is included in the risk management oversight of the management review team and part of the structured agenda and minuted as part of the meetings. 
+
+The risk register is in place and risk owners are assigned. ",
+6.1,6.1.2,Information security risk assessment,,"d) analyses the information security risks:
+ 1) assess the potential consequences that would result if the risks identified in 6.1.2c) 1) were to materialise;
+ 2) assess the realistic likelihood of the occurrence of the risks identified in 6.1.2 c) 1); and
+ 3) determine the levels of risk;
+","Assess the potential consequences of each identified risk (confidentiality, integrity, availability impact).
+Assess the likelihood of each risk occurring based on historical data and industry trends.
+Calculate the overall risk level based on consequence and likelihood (e.g., risk matrix).","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register is used for the management of risk that includes the analysis of risk and the impact and likelihood of risks. In addition it identifies the level of risk and scores the risk. The risk register and risk process includes rescoring risk after risk treatment and the creation of a residual risk score. ",
+6.1,6.1.2,Information security risk assessment,,"e) evaluates the information security risks:
+ 1) compare the results of risk analysis with the risk criteria established in 6.1.2 a); and
+ 2) prioritise the analysed risks for risk treatment.","Compare risk levels with established risk acceptance criteria.
+Prioritize risks based on their severity and potential impact.
+Identify risks requiring treatment based on prioritization and risk acceptance criteria.","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register is used for the management of risk that includes the analysis of risk and the impact and likelihood of risks. In addition it identifies the level of risk and scores the risk. The risk register and risk process includes rescoring risk after risk treatment and the creation of a residual risk score. ",
+6.1,6.1.3,Information security risk treatment,The organisation shall define and apply an information security risk treatment process to:,,,"There is a risk management process in place and documented. 
+
+There is a Risk Management Policy in place
+
+There is an ISMS Risk Register in place and used for managing risks",
+6.1,6.1.3,Information security risk treatment,,"a) select appropriate information security risk treatment options, taking account of the risk assessment results;
+","Use risk assessment results to identify appropriate treatment options (e.g., accept, mitigate, transfer, avoid).
+Consider organizational risk tolerance and resource constraints.
+Document the rationale for each chosen option.","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+All controls required are assessed and document in the document: Statement of Applicability
+
+Document: Statement of Applicability describes the applicability of controls and why they are / are not applicable. 
+
+A Risk Treatment Plan guidance is documented in the risk register 
+
+Residual risk acceptance is recorded in the risk register and via Management Review Team meetings and standing agenda with minutes 
+
+Risk Owners and Treatment Owners are identified in the risk register
+",
+6.1,6.1.3,Information security risk treatment,,"b) determine all controls that are necessary to implement the information security risk treatment option(s) chosen;
+","Identify controls that address the chosen treatment options for each risk.
+Consider controls from Annex A and other relevant sources.
+Document the selected controls and their mapping to risks.","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+All controls required are assessed and document in the document: Statement of Applicability
+
+Document: Statement of Applicability describes the applicability of controls and why they are / are not applicable. 
+
+A Risk Treatment Plan guidance is documented in the risk register 
+
+Residual risk acceptance is recorded in the risk register and via Management Review Team meetings and standing agenda with minutes 
+
+Risk Owners and Treatment Owners are identified in the risk register
+",
+6.1,6.1.3,Information security risk treatment,,"c) compare the controls determined in 6.1.3 b) above with those in Annex A and verify that no necessary controls have been omitted;
+","Review Annex A controls and identify any missing necessary controls.
+Document the comparison process and justification for omitting any controls.","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+All controls required are assessed and document in the document: Statement of Applicability
+
+Document: Statement of Applicability describes the applicability of controls and why they are / are not applicable. 
+
+A Risk Treatment Plan guidance is documented in the risk register 
+
+Residual risk acceptance is recorded in the risk register and via Management Review Team meetings and standing agenda with minutes 
+
+Risk Owners and Treatment Owners are identified in the risk register
+",
+6.1,6.1.3,Information security risk treatment,,"d) produce a Statement of Applicability that contains
+- the necessary controls (see 6.1.3 b) and c));
+- justification for their inclusion;
+- whether the necessary controls are implemented or not; and
+- the justification for excluding any of the Annex A controls.","List of necessary controls (from b & c)
+Justification for each control
+Implementation status (implemented/not implemented)
+Justification for excluding any controls (from c)","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+All controls required are assessed and document in the document: Statement of Applicability
+
+Document: Statement of Applicability describes the applicability of controls and why they are / are not applicable. 
+
+A Risk Treatment Plan guidance is documented in the risk register 
+
+Residual risk acceptance is recorded in the risk register and via Management Review Team meetings and standing agenda with minutes 
+
+Risk Owners and Treatment Owners are identified in the risk register
+",
+6.1,6.1.3,Information security risk treatment,,"e) formulate an information security risk treatment plan; and
+","Control implementation actions
+Responsibilities and timelines
+Monitoring and review procedures","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+All controls required are assessed and document in the document: Statement of Applicability
+
+Document: Statement of Applicability describes the applicability of controls and why they are / are not applicable. 
+
+A Risk Treatment Plan guidance is documented in the risk register 
+
+Residual risk acceptance is recorded in the risk register and via Management Review Team meetings and standing agenda with minutes 
+
+Risk Owners and Treatment Owners are identified in the risk register
+",
+6.1,6.1.3,Information security risk treatment,,f ) obtain risk owners’ approval of the information security risk treatment plan and acceptance of the residual information security risks.,"Present the risk treatment plan to risk owners for approval.
+Obtain acceptance of residual risks.
+Document approval and acceptance.","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+All controls required are assessed and document in the document: Statement of Applicability
+
+Document: Statement of Applicability describes the applicability of controls and why they are / are not applicable. 
+
+A Risk Treatment Plan guidance is documented in the risk register 
+
+Residual risk acceptance and risk approval is recorded in the risk register and via Management Review Team meetings and standing agenda with minutes 
+
+Risk Owners and Treatment Owners are identified in the risk register
+",
+6.1,6.1.3,Information security risk treatment,,"The organization shall retain documented information about the information security risk treatment
+process.","Maintain all relevant documentation related to the risk treatment process.
+Ensure document control and accessibility.","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+A Risk Treatment Plan is documented in the risk register 
+
+Residual risk acceptance and risk approval is recorded in the risk register and via Management Review Team meetings and standing agenda with minutes 
+
+Risk Owners and Treatment Owners are identified in the risk register
+",
+6.2,,Information security objectives and planning to achieve them,,,,,
+6.2,,General,,The organisation shall establish information security objectives at relevant functions and levels. ,,"Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.
+
+The Information Security Policy sets out the information security objectives in policy form. 
+
+Document: Communication Plan sets out the communications for the year across media and approaches
+
+Is updated as part of the Continual Improvement policy and process and evidence as signed of by the Management Review Team ",
+6.2,,General,,"The information security objectives shall:
+a) be consistent with the information security policy","Review the information security policy and identify key security goals and principles.
+Develop information security objectives that align with and support these goals and principles.
+Map objectives to specific policy sections for clarity and traceability.","Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.
+
+The Information Security Policy sets out the information security objectives in policy form. 
+
+Document: Communication Plan sets out the communications for the year across media and approaches
+
+Is updated as part of the Continual Improvement policy and process and evidence as signed of by the Management Review Team ",
+6.2,,General,,"b) be measurable (if practicable);
+","Define clear metrics for each objective wherever possible (e.g., number of security incidents, completion rate of security awareness training).
+Consider qualitative measures where quantitative data is not feasible.
+Document the chosen measurement approach for each objective.","Measures have been created for the objectives and are recorded and tracked and managed in the Management Review Team Meeting. The agenda documents the results and meeting minutes are in place for meetings. 
+
+In addition measures for security controls are in place. 
+
+Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.
+
+The Information Security Policy sets out the information security objectives in policy form. 
+
+Document: Communication Plan sets out the communications for the year across media and approaches
+
+Is updated as part of the Continual Improvement policy and process and evidence as signed of by the Management Review Team ",
+6.2,,General,,"c) take into account applicable information security requirements, and risk assessment and risk treatment results;
+","Conduct a risk assessment to identify information security risks.
+Review applicable legal, regulatory, and contractual requirements.
+Analyze stakeholder expectations and business needs.
+Develop objectives that address identified risks, requirements, and needs.","The objectives  have been created based on the Organisation Overview and Context of Organisation. In addition taking into account the Legal and Contractual Requirements Register and specific client needs. 
+
+Objectives are assessed against the risk assessment process and the risk register with an annual review in place and the opportunity to update them based on significant change or business requirements. ",
+6.2,,General,,"d) be monitored
+","Define monitoring procedures for each objective, including frequency and responsible parties.
+Collect data and track progress towards objective achievement.
+Analyze monitoring results and report periodically to management.","The Information Security Policy sets out the information security objectives in policy form. The policy including the objectives is evidenced as communicated and accepted. 
+
+The policy including objectives is available to all staff. 
+
+Document: Communication Plan sets out the communications for the year across media and approaches
+
+Is updated as part of the Continual Improvement policy and process and evidence as signed of by the Management Review Team ",
+6.2,,General,,"e) be communicated
+
+","Communicate information security objectives to relevant personnel through various channels (e.g., training, meetings, intranet).
+Ensure objectives are understood and supported by key stakeholders.","The Information Security Policy sets out the information security objectives in policy form. The policy including the objectives is evidenced as communicated and accepted. 
+
+The policy including objectives is available to all staff. 
+
+Document: Communication Plan sets out the communications for the year across media and approaches
+
+Is updated as part of the Continual Improvement policy and process and evidence as signed of by the Management Review Team 
+
+Objectives are part of the Management Review team agenda for communication, tracking and oversight.",
+6.2,,General,,f) be updated as appropriate,"Regularly review and update information security objectives as needed (e.g., after risk assessments, changes in the organization).
+Document changes and the rationale behind them.",Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting and updating Information Security Objectives. ,
+6.2,,General,,"g) be available as documented information
+
+The organization shall retain documented information on the information security objectives.","Maintain a documented record of all information security objectives, including their content, metrics, monitoring procedures, and communication plan.
+Ensure the documented information is readily accessible and up-to-date.","Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.
+
+The Information Security Policy sets out the information security objectives in policy form. 
+
+Document: Communication Plan sets out the communications for the year across media and approaches
+
+Is updated as part of the Continual Improvement policy and process and evidence as signed of by the Management Review Team ",
+6.2,,General," When planning how to achieve its information security objectives, the organisation shall determine;","
+
+h ) what will be done;","Define specific actions or activities required to achieve each objective.
+Develop project plans or work instructions for complex activities.","Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.",
+6.2,,General,,"i) what resources will be required;
+","Identify personnel, financial resources, and other resources needed to achieve each objective.
+Allocate resources based on priorities and feasibility.","Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.",
+6.2,,General,,"j) who will be responsible;
+","Assign clear ownership and responsibility for achieving each objective.
+Ensure personnel are aware of their roles and responsibilities.","Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.",
+6.2,,General,,"k) when it will be completed; and
+","Define deadlines or timelines for achieving each objective.
+Set realistic and achievable targets based on resources and complexity.","Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.",
+6.2,,General,,"
+l) how the results will be evaluated.","Define how the effectiveness of each objective and its associated activities will be evaluated.
+Conduct regular reviews and assessments to measure progress and identify improvement opportunities.","Document: The Information Security Management System describes the information security objectives and the process and roles and responsibilities. It describes for the framework for setting Information Security Objectives. 
+
+The Information Security Objectives.xls sets out the Objectives and includes columns for what will be done, what resources will be required, who will be responsible, when it will be completed and how it will be evaluated.",
+6.3,,"When the organization determines the need for changes to the information security management system, the changes shall be carried out in a planned manner.",,,"• Robust change management process
+• Clear roles and responsibilities
+• Effective impact assessment
+• Approval and authorization controls
+• Proper testing and implementation
+• Effective communication and documentation
+• Regular review and evaluation","Document: ISMS Management Plan.xls is the plan for the ISMS for the year ahead. Changes are managed via continual improvement process and approved by the Management Review Team
+
+Document: Information Security Management System Document Tracker.xls tracks the changes and status of the ISMS documents",
+7,,Support,,,,,
+7.1,,Resources,,"The organisation shall determine and provide the resources needed for the establishment, implementation, maintenance and continual improvement of the information security management system.","• Clear and documented resource requirements for the ISMS
+• Effective resource planning and budgeting processes
+• Prioritization of critical information security needs
+• Diversification of resources and vendors
+• Regular review and update of resources based on changing risks","Document: Information Security Roles Assigned and Responsibilities sets out the roles and responsibilities with allocated resource. 
+
+There is an Information Security Management System Document Tracker that assigns the resources and ownership for each document in the ISMS
+
+Document: ISMS Annex A Controls - Accountability Matrix - ISO 27002 2022 and 2013 assigns responsibility for each ISO 27002 / Annex A Control",
+7.2,,Competence,The organisation shall:,"
+
+a) determine the necessary competence of person(s) doing work under its control that affects its information security performance;
+","Identify all roles and responsibilities related to information security within the organization.
+Conduct a risk assessment to identify the information security tasks and activities associated with each role.
+Define the knowledge, skills, and experience necessary to perform each task competently.
+Consider industry standards, best practices, and regulatory requirements when defining competence levels.","Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+Document: Information Security Roles Assigned and Responsibilities sets out the roles and responsibilities with allocated resource. 
+
+Document: ISMS Annex A Controls - Accountability Matrix assigns responsibility for each ISO 27002 / Annex A Control",
+7.2,,Competence,,"b) ensure that these persons are competent on the basis of appropriate education, training, or experience;
+","Review existing employee qualifications and experience against the defined competence requirements.
+Identify any gaps in competence and develop training or development plans to address them.
+Provide relevant training and awareness programs to all personnel with information security responsibilities.
+Encourage employees to pursue relevant certifications and professional development opportunities.","Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+Document: Information Security Roles Assigned and Responsibilities sets out the roles and responsibilities with allocated resource. 
+
+Document: ISMS Annex A Controls - Accountability Matrix assigns responsibility for each ISO 27002 / Annex A Control",
+7.2,,Competence,,"c) where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken; and
+","Implement a process for identifying and addressing competence gaps.
+Develop and implement training programs to address identified gaps.
+Consider alternative options like mentoring, job shadowing, or hiring qualified personnel when training is not feasible.
+Evaluate the effectiveness of the taken actions through performance reviews and skills assessments.","Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+Document: Information Security Roles Assigned and Responsibilities sets out the roles and responsibilities with allocated resource. 
+
+Document: ISMS Annex A Controls - Accountability Matrix assigns responsibility for each ISO 27002 / Annex A Control",
+7.2,,Competence,,d) retain appropriate documented information as evidence of competence.,"Maintain a centralized repository for all competence-related documentation, including training records, certifications, and skills assessments.
+Keep documentation readily available for audit purposes.
+Regularly review and update competence documentation as needed.","Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+Document: Information Security Roles Assigned and Responsibilities sets out the roles and responsibilities with allocated resource. 
+
+Document: ISMS Annex A Controls - Accountability Matrix assigns responsibility for each ISO 27002 / Annex A Control",
+7.3,,Awareness,Persons doing work under the organisation’s control shall be aware of:,"
+a) the information security policy;
+","Develop and maintain a clear and concise information security policy that is easily accessible to all personnel.
+Conduct induction training for new employees that covers the key aspects of the information security policy.
+Organize regular awareness campaigns and training sessions to refresh employee knowledge of the policy.
+Utilize various awareness methods like posters, newsletters, e-learning modules, and intranet resources.
+Encourage employees to ask questions and seek clarification on the policy.","Employment contracts and third party contracts include coverage of information security requirements. 
+
+Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+Document: Communication Plan sets out the communications for the year across media and approaches 
+
+Document: Information Security Awareness and Training Policy sets out the training and awareness and evidence was seen of the operation. 
+
+Grievance and disciplinary policy and processes are in place. 
+
+All policies include a statement on non conformance.",
+7.3,,Awareness,,"b) their contribution to the effectiveness of the information security management system, including the benefits of improved information security performance; and
+","Develop training materials that explain how individual roles and responsibilities contribute to the effectiveness of the ISMS.
+Highlight the benefits of improved information security performance, such as reduced risk of data breaches, improved compliance, reputational protection, and enhanced business continuity.
+Encourage employees to share examples of how they have implemented security controls effectively.","Employment contracts and third party contracts include coverage of information security requirements. 
+
+Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+Document: Communication Plan sets out the communications for the year across media and approaches 
+
+Document: Information Security Awareness and Training Policy sets out the training and awareness and evidence was seen of the operation. 
+
+Grievance and disciplinary policy and processes are in place. 
+
+All policies include a statement on non conformance.",
+7.3,,Awareness,,c) the implications of not conforming with the information security management system requirements.,"Incorporate information on the potential consequences of non-compliance with the ISMS requirements into training materials.
+This could include disciplinary actions, legal repercussions, financial losses, and reputational damage.
+Utilize case studies of real-world security incidents to illustrate the impact of non-compliance.","Employment contracts and third party contracts include coverage of information security requirements. 
+
+Document: Competency Matrix captures the core competencies and training requirements of staff in relation to information security
+
+Document: Communication Plan sets out the communications for the year across media and approaches 
+
+Document: Information Security Awareness and Training Policy sets out the training and awareness and evidence was seen of the operation. 
+
+Grievance and disciplinary policy and processes are in place. 
+
+All policies include a statement on non conformance.",
+7.4,,Communication,The organisation shall determine the need for internal and external communications relevant to the information security management system including:,"
+
+a) on what to communicate;
+b) when to communicate;
+c) with whom to communicate;
+d) how to communicate
+","• Implementing a clear and effective communications strategy for the ISMS
+• Tailoring communication to different audiences and their information needs
+• Utilizing multiple channels for communication (e.g., internal and external)
+• Training employees on how to communicate security information effectively
+• Conducting regular communication audits to assess the effectiveness of the program
+• Establishing a process for reviewing and updating communication materials","Document: Communication Plan sets out the communications for the year across media and approaches. It lays out what, when, who and how and records evidence. ",
+7.5,7.5.1,Documented information General,,"The organisation’s information security management system shall include:
+
+a) documented information required by this document; and
+b) documented information determined by the organisation as being necessary for the effectiveness of the information security management system.","• Implementing a clear and structured documentation policy and control procedures
+• Enforcing proper document version control and change management processes
+• Utilizing secure document storage and access control mechanisms
+• Regularly reviewing and updating documents to reflect changes in the ISMS
+• Conducting document audits to assess compliance and identify areas for improvement
+• Providing training and awareness on document management best practices",The information security system is in place and evidenced and is high level described in document: The Information Security Management System. Documents as described per each control.,
+7.5,7.5.2,Creating and updating,,"When creating and updating documented information the organisation shall ensure appropriate:
+
+a) identification and description (e.g. a title, date, author, or reference number)
+b) format (e.g. language, software version, graphics) and media (e.g. paper, electronic); and 
+c) review and approval for suitability and adequacy.","• Implementing clear and well-defined document identification and control policies.
+• Utilizing standardized document templates and formatting guidelines.
+• Enforcing rigorous review and approval processes with designated roles and responsibilities.
+• Employing version control systems and audit trails to track document changes.
+• Providing training and awareness on document formatting and review procedures for all relevant personnel.
+• Conducting regular audits to assess compliance with document control requirements and identify areas for improvement.","Documents appropriate to the organisation and evidenced as having the mark up included
+
+Documents are reviewed and signed of by the Management Review Team and evidenced as such.
+
+Documents are updated in line with document: Continual Improvement Policy and the continual improvement process
+
+There is a documents and records policy in place and evidenced and documents are seen to be in line with policy.",
+7.5,7.5.3,Control of documented information,,"Documented information required by the information security management system and by this document shall be controlled to ensure:
+
+a) it is available and suitable for use, where and when it is needed; and
+b) it is adequately protected (e.g. from loss of confidentiality, improper use, or loss of integrity).
+ For the control of documented information, the organisation shall address the following activities, as applicable:
+
+c) distribution, access, retrieval and use; 
+d) storage and preservation, including the preservation of legibility;
+e) control of changes (e.g. version control); and
+f ) retention and disposition.
+
+Documented information of external origin, determined by the organization to be necessary for the planning and operation of the information security management system, shall be identified as appropriate, and controlled.","• Implementing clear and well defined document control policies and procedures
+• Enforcing version control and change management processes to track document changes
+• Utilizing secure storage and access control mechanisms to protect documents from unauthorized access
+• Regularly backing up documents and testing recovery procedures
+• Maintaining an organized and consistent document structure and naming conventions
+• Reviewing and updating documents regularly to ensure accuracy and currency
+• Providing adequate training and awareness on document control procedures for all personnel
+• Conducting regular audits to assess compliance with document control requirements","Documents stored and accessible appropriate to the organisation.
+
+Version control and document history in place.
+
+Documents retained and disposed in line with the Data Retention Policy. 
+
+There is a documents and records policy in place and evidenced and documents are seen to be in line with policy.
+
+There is an information classification and handling policy in place and documents are seen to be in line with policy. 
+
+There is a backup policy and appropriate backup in place and tested. 
+
+There is an access control policy and access control process in place and evidenced as effective.",
+8,,Operation,,,,,
+8.1,,Operational planning and control,,"The organisation shall plan, implement and control the processes needed to meet requirements, and to implement the actions determined in Clause 6.2, by:
+- establishing criteria for the processes;
+- implementing control of the processes in accordance with the criteria.
+","Segregation of duties
+Access control and authorization
+Change management procedures
+Documentation and recordkeeping
+Training and awareness
+Incident management procedures
+Non-compliance reporting","The information security management system and associated processes are evidenced as being in place.
+
+Processes are documented and there is an Operations Security Manual as well as supplementary process such as how to audit, how to conduct a management review, incident management, continual improvement",
+8.1,,Operational planning and control,,"
+Documented information shall be available to the extent necessary to have confidence that the processes have been carried out as planned.
+","Identify relevant processes: Define the information security-related processes your organization needs to operate effectively. This includes risk assessments, risk treatment, incident management, training, change management, etc.
+Document the processes: Create documented procedures for each process, outlining the steps, roles, responsibilities, and controls involved.
+Maintain document control: Implement a system for managing and controlling your process documents, including version control, review and approval procedures, and accessibility for authorized personnel.
+Record process execution: Keep records demonstrating that the processes have been carried out as planned. ","Processes are subject to internal audit and evidenced as operating. Processes have appropriate records of operation appropriate to the process and documented in line with the specific control and subject to audit specific to the process.
+
+Documents and version control are in place. Audit plans are kept for a minimum of 1 year in line with the retention policy.
+
+",
+8.1,,Operational planning and control,,"The organisation shall control planned changes and review the consequences of unintended changes, taking action to mitigate any adverse effects, as necessary.
+","Develop a change management process: This should define the steps for proposing, reviewing, approving, implementing, and monitoring changes.
+Identify key stakeholders: Include information security, IT, and relevant business units in the change process.
+Conduct risk assessments: Evaluate the potential security risks associated with each proposed change.
+Implement controls: Apply appropriate controls to mitigate identified risks, such as impact assessments, security testing, and rollback plans.
+Document and approve changes: Maintain a record of all planned changes, including approvals and risk assessments.
+Monitor and review changes: Evaluate the effectiveness of implemented controls and address any issues identified.","There is a  Change Management Policy and Change Management Process and changes were evidenced as being in line with policy and process. 
+
+",
+8.1,,Operational planning and control,,"The organisation shall ensure that and externally provided processes, products or services that are relevant to the information security management system are controlled.","Perform a risk assessment for each identified externally provided resource, considering their potential impact on the ISMS and information security objectives.
+
+Based on the risk assessment, establish control procedures to mitigate risks associated with externally provided resources. These may include:
+Contractual Agreements: Include security clauses in contracts with vendors, outlining specific security requirements, responsibilities, and incident response procedures.
+Security Assessments: Regularly conduct security assessments of the vendor's infrastructure and processes to ensure they meet agreed-upon security standards.
+Monitoring and Reporting: Monitor the performance of externally provided resources and require vendors to report security incidents promptly.
+Data Loss Prevention (DLP): Implement controls to prevent unauthorized data transfer or leakage through externally provided resources.","There is a Third Party Supplier Security Policy
+
+A third party register is in place with periodic review based on criticality, risk and business need.
+
+Current in date contracts are in place for all key suppliers as well as evidence of information security. ",
+8.2,,Information security risk assessment,,"The organisation shall perform information security risk assessments at planned intervals or when significant changes are proposed or occur, taking account of the criteria established in 6.1.2 a).",,"There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+All controls required are assessed and document in the document: Statement of Applicability
+
+Risk assessment is performed at points of significant change on introduction of new technology and at least annually. Risk Meeting Minutes in place. ",
+8.2,,,,The organisation shall retain documented information of the results of the information security risk assessments.,"Define planned intervals (e.g., annually, biannually) based on risk profile and context.
+Identify ""significant changes"" triggering ad-hoc assessments (e.g., system upgrades, data breaches).
+Conduct Risk Assessments:
+
+Apply methodology aligned with 6.1.2 criteria (e.g., likelihood, impact, vulnerability).
+Identify, analyze, and prioritize information security risks.
+Document risk assessment findings and justifications.
+Treat Identified Risks:
+
+Develop and implement risk treatment plans (mitigation, acceptance, transfer).
+Select and implement appropriate controls based on risk level.
+Document risk treatment decisions and controls implemented.
+Maintain Records:
+
+Retain documented information of risk assessments, including:
+Methodology and criteria used.
+Identified risks, likelihood, and impact assessments.
+Risk treatment plans and justifications.
+Implemented controls and their effectiveness evaluations.","Annual Risk Assessments are minuted
+
+The risk register is in place with version control and includes both closed risks and for all risks it includes the original risk score and the residual risk score. ",
+8.3,,Information security risk treatment,,"The organisation shall implement the information security risk treatment plan.
+The organisation shall retain documented information of the results of the information security risk treatment.","Implement the risk treatment plan:
+
+Assign ownership and responsibility for implementing each risk treatment action.
+Develop and execute implementation plans for each action, including timelines and resources.
+Implement the chosen controls, including technical, organizational, and procedural measures.
+Monitor and measure the effectiveness of implemented controls.
+Update the risk treatment plan as needed based on changes or monitoring results.
+Retain documented information of results:
+
+Maintain records of implemented risk treatment actions.
+Document evidence of control implementation (e.g., configuration settings, training records, policy documents).
+Monitor and record the effectiveness of implemented controls (e.g., security incident reports, control effectiveness assessments).","There is a risk management process in place and documented. 
+
+Document: Risk Management Policy
+
+Document: ISMS Risk Register 
+
+Risk treatment is recorded and managed via the risk register and records maintained for open and closed risks. 
+
+Version control is in place. ",
+8.3,,Information security risk treatment,,"The organisation shall implement the information security risk treatment plan.
+The organisation shall retain documented information of the results of the information security risk treatment.","Implement selected risk treatment controls:
+
+Implement the controls identified in the risk treatment plan (Clause 6.1.3).
+Assign ownership and responsibility for implementing and monitoring controls (e.g., through policies, procedures, training).
+Allocate resources and budget for implementing controls.
+Establish timelines for control implementation.
+Monitor and review control effectiveness:
+
+Monitor the effectiveness of implemented controls (e.g., through regular testing, performance metrics).
+Conduct periodic reviews to assess the continued effectiveness of controls and the overall risk treatment plan.
+Update the risk treatment plan as needed based on monitoring and review results.
+Document the results:
+
+Maintain records of control implementation activities (e.g., training records, configuration changes).
+Document monitoring and review results, including identified issues and corrective actions taken.
+Record the residual risk levels after control implementation.","Risk treatment is recorded and managed via the risk register. Once a risk treatment is completed the risk is reassessed to create a residual risk score with the associated residual risk records related to the new controls, the impact, the likelihood. ",
+9,,Performance evaluation,,,,,
+9.1,,"Monitoring, measurement, analysis and evaluation",The organisation shall determine:,"
+a) what needs to be monitored and measured, including information security processes and controls;","Conduct a risk assessment to identify critical information assets, processes, and controls.
+Analyze existing monitoring and measurement activities related to information security.
+Define information security objectives and key performance indicators (KPIs).
+Consider relevant legal and regulatory requirements and stakeholder expectations.","Document: The Information Security Management System sets out the objectives. These are managed and reviewed at the Management Review Team meeting which is documented in the document:  Information Security Roles Assigned and Responsibilities. 
+
+The agenda template covers the requirements of the standard and is seen to be in operation in the meeting minutes.
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy sets out the continual improvement policy.
+
+Document: Incident and Corrective Action Log captures and manages the corrective actions. 
+
+The measures associated with the objectives have been determined and are reviewed at the management review team.",
+9.1,,"Monitoring, measurement, analysis and evaluation",,"b) the methods for monitoring, measurement, analysis and evaluation, as applicable, to ensure
+valid results. The methods selected should produce comparable and reproducible results to be considered valid;","Select appropriate monitoring tools and techniques (e.g., log analysis, intrusion detection systems, penetration testing).
+Define metrics and measurement methods for each KPI.
+Establish analysis and evaluation procedures to assess the collected data.
+Ensure the chosen methods produce comparable and reproducible results.","Document: The Information Security Management System sets out the objectives. These are managed and reviewed at the Management Review Team meeting which is documented in the document:  Information Security Roles Assigned and Responsibilities. 
+
+The agenda template covers the requirements of the standard and is seen to be in operation in the meeting minutes.
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy sets out the continual improvement policy.
+
+Document: Incident and Corrective Action Log captures and manages the corrective actions. 
+
+The measures associated with the objectives have been determined and are reviewed at the management review team.",
+9.1,,"Monitoring, measurement, analysis and evaluation",,"c) when the monitoring and measuring shall be performed;
+","Schedule regular monitoring activities based on risk assessments and control effectiveness.
+Consider the dynamic nature of threats and vulnerabilities when setting frequencies.
+Define specific events or triggers for ad-hoc monitoring and measurement activities.","Document: The Information Security Management System sets out the objectives. These are managed and reviewed at the Management Review Team meeting which is documented in the document:  Information Security Roles Assigned and Responsibilities. 
+
+The agenda template covers the requirements of the standard and is seen to be in operation in the meeting minutes.
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy sets out the continual improvement policy.
+
+Document: Incident and Corrective Action Log captures and manages the corrective actions. 
+
+The measures associated with the objectives have been determined and are reviewed at the management review team.",
+9.1,,"Monitoring, measurement, analysis and evaluation",,"d) who shall monitor and measure;
+","Allocate clear roles and responsibilities for monitoring and measurement activities.
+Ensure personnel are trained and competent in using monitoring tools and techniques.
+Consider internal audit involvement for specific tasks.","Document: The Information Security Management System sets out the objectives. These are managed and reviewed at the Management Review Team meeting which is documented in the document:  Information Security Roles Assigned and Responsibilities. 
+
+The agenda template covers the requirements of the standard and is seen to be in operation in the meeting minutes.
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy sets out the continual improvement policy.
+
+Document: Incident and Corrective Action Log captures and manages the corrective actions. 
+
+The measures associated with the objectives have been determined and are reviewed at the management review team.",
+9.1,,"Monitoring, measurement, analysis and evaluation",,"e) when the results from monitoring and measurement shall be analysed and evaluated; 
+","Establish regular review cycles for analyzing and evaluating monitoring results.
+Consider real-time or near-real-time analysis for critical controls or high-risk situations.
+Define triggers for immediate evaluation in case of anomalies or incidents.","Document: The Information Security Management System sets out the objectives. These are managed and reviewed at the Management Review Team meeting which is documented in the document:  Information Security Roles Assigned and Responsibilities. 
+
+The agenda template covers the requirements of the standard and is seen to be in operation in the meeting minutes.
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy sets out the continual improvement policy.
+
+Document: Incident and Corrective Action Log captures and manages the corrective actions. 
+
+The measures associated with the objectives have been determined and are reviewed at the management review team.",
+9.1,,"Monitoring, measurement, analysis and evaluation",,"f) who shall analyse and evaluate these results.
+
+Documented information shall be available as evidence of the results.
+
+","Identify personnel responsible for analyzing and evaluating monitoring data.
+Ensure personnel have the necessary expertise and analytical skills.
+Consider involving management review teams for strategic evaluations.","Document: The Information Security Management System sets out the objectives. These are managed and reviewed at the Management Review Team meeting which is documented in the document:  Information Security Roles Assigned and Responsibilities. 
+
+The agenda template covers the requirements of the standard and is seen to be in operation in the meeting minutes.
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy sets out the continual improvement policy.
+
+Document: Incident and Corrective Action Log captures and manages the corrective actions. 
+
+The measures associated with the objectives have been determined and are reviewed at the management review team.",
+9.1,,"Monitoring, measurement, analysis and evaluation",,The organisation shall evaluate the information security performance and the effectiveness of the information security management system.,"Maintain records of all monitoring data, analysis results, and evaluation findings.
+Ensure documentation is accurate, complete, and readily available for audits.","Document: The Information Security Management System sets out the objectives. These are managed and reviewed at the Management Review Team meeting which is documented in the document:  Information Security Roles Assigned and Responsibilities. 
+
+The agenda template covers the requirements of the standard and is seen to be in operation in the meeting minutes.
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy sets out the continual improvement policy.
+
+Document: Incident and Corrective Action Log captures and manages the corrective actions. 
+
+The measures associated with the objectives have been determined and are reviewed at the management review team.",
+9.2,,Internal Audit,,,,,
+9.2,9.2.1,Internal Audit General,,"The organisation shall conduct internal audits at planned intervals to provide information on whether the information security management system:
+
+a) conforms to
+ 1) the organisation’s own requirements for its information security management system; and
+ 2) the requirements of this document;
+","Define the organization's specific information security requirements (e.g., additional controls, policies, procedures beyond ISO 27001).
+Develop an internal audit program with scope and criteria aligned to these requirements.
+Conduct internal audits covering all defined requirements.
+Document and report audit findings, including conformance assessments.","A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy and Continual improvement process in place.
+
+ Document: Incident and Corrective Action Log captures and manages the corrective actions
+
+Audits report to management review team as part of standard agenda,. ",
+9.2,9.2.1,Internal Audit General,,b) is effectively implemented and maintained.,"Design internal audits to assess the effectiveness of implemented controls and processes.
+Evaluate whether controls are operating as intended and achieving their objectives.
+Assess the completeness and accuracy of documented information (e.g., policies, procedures).
+Identify areas for improvement and potential nonconformities.
+Document and report audit findings, including effectiveness assessments.","A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+Document: Continual Improvement Policy and Continual improvement process in place.
+
+ Document: Incident and Corrective Action Log captures and manages the corrective actions
+
+Audits report to management review team as part of standard agenda,. ",
+9.2,9.2.2,Internal audit programme,,"The organization shall plan, establish, implement and maintain an audit programme(s), including the frequency, methods, responsibilities, planning requirements and reporting.
+When establishing the internal audit  programme(s), the organization shall consider the importance of the processes concerned and the results of previous audits.",," A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. 
+
+The audit plan is seen to be based on the needs of the business and the results of previous audits. ",
+9.2,9.2.2,Internal audit programme,The organisation shall ,"a) define the audit criteria and scope for each audit;
+","Identify internal audit objectives aligned with ISMS goals and risk management.
+Select relevant ISMS controls and processes for each audit based on importance, risk, and previous findings.
+Develop audit criteria for each selected control, referencing relevant standards, policies, and procedures.
+Define the audit scope, including departments, systems, and activities to be covered.",The audit plan and each audit sets out the controls that are being audited and the scope of the audit. ,
+9.2,9.2.2,Internal audit programme,,"b) select auditors and conduct audits that ensure objectivity and the impartiality of the audit process;
+","Select internal or external auditors with competence, objectivity, and impartiality regarding the audited processes.
+Train auditors on ISMS, audit methodology, and relevant regulations.
+Develop and implement an audit schedule based on risk and program objectives.
+Conduct audits systematically, collecting evidence and documenting findings.", Audits are evidenced as being conducted by people that are independent of the areas being audited. ,
+9.2,9.2.2,Internal audit programme,,"c ) ensure that the results of the audits are reported to relevant management; 
+","Prepare audit reports summarizing findings, conclusions, and recommendations.
+Communicate audit reports to relevant management for review and action.
+Track and monitor the implementation of corrective actions based on audit findings.",Audits are reported to the management review team as part of standard agenda and meeting minutes are evidenced for operation.  ,
+9.2,9.2.2,Internal audit programme,,Documented information shall be available as evidence of the implementation of the audit programme(s)and the audit results.,"Audit plans: Develop individual audit plans for each scheduled audit, outlining the specific objectives, scope, methodology, and resources required.
+Audit reports: Prepare detailed reports for each completed audit, documenting the findings, observations, recommendations, and conclusions.
+Nonconformity records: Record all identified nonconformities with relevant ISO 27001 requirements or organizational policies.
+Corrective action records: Document the corrective actions planned and implemented for each identified nonconformity, including responsible parties, deadlines, and completion status.
+Management review records: Include information on internal audit results and corrective actions in management review meetings, demonstrating their consideration and effectiveness.","Audit plan is in place and evidence and the existence of previous audits was reviewed and seen to be in place. 
+
+Audit results are kept for a minimum of 1 year in line with policy. ",
+9.3,,Management review,,,,,
+9.3,9.3.1,General,,"Top management shall review the organization's information security management system at planned intervals to ensure its continuing suitability, adequacy and effectiveness.","Schedule regular management reviews: Conduct reviews at least annually, with additional reviews as needed based on changes or significant events.
+Define review agenda and participants: Include mandatory topics like risk assessments, performance metrics, nonconformities, and external context changes. Invite relevant stakeholders like senior management, ISMS team, and external auditors (optional).
+Gather input for review: Collect data on ISMS performance through monitoring, audit reports, incident reports, and feedback mechanisms.
+Conduct the review: Discuss key topics, analyze trends, identify improvement opportunities, and make decisions on resource allocation and actions.
+Document review outcomes: Capture key discussion points, decisions taken, and action items with assigned responsibilities and deadlines.
+Implement action items:","The Management Review Team is in place and operational and documented in the document:  Information Security Roles Assigned and Responsibilities.
+
+The management review team meets at least quarterly and the exact schedule is located in the communication plan.
+
+
+",
+9.3,9.3.2,Management review inputs,The management review shall include consideration of:,"
+
+a) the status of actions from previous management reviews;
+b) changes in external and internal issues that are relevant to the information security management system;
+c) changes in needs and expectations of interested parties that are relevant to the information security management system;
+d) feedback on the information security performance, including trends in:
+ 1) nonconformities and corrective actions;
+ 2) monitoring and measurement results;
+ 3) audit results; and
+ 4) fulfilment of information security objectives; 
+e) feedback from interested parties;
+f) results of risk assessment and status of risk treatment plan; g ) opportunities for continual improvement.
+","a) Status of actions from previous management reviews:
+
+Implementation Steps:
+
+Maintain a register of actions from previous reviews with deadlines, responsible parties, and completion status.
+Review the register at each management review and discuss the status of each action.
+Update the register with new actions and revise deadlines as needed.
+
+b) Changes in external and internal issues:
+
+Implementation Steps:
+
+Regularly monitor external sources (e.g., news, industry publications) for changes in legal, regulatory, and security threat landscapes.
+Conduct internal reviews to identify changes in organizational structure, processes, information assets, and dependencies.
+Assess the impact of identified changes on the ISMS scope, objectives, and controls.
+
+c) Changes in needs and expectations of interested parties:
+
+Implementation Steps:
+
+Regularly engage with interested parties (e.g., customers, regulators, employees) to understand their evolving needs and expectations regarding information security.
+Analyze feedback from surveys, meetings, and communication channels.
+Assess the impact of identified changes on the ISMS scope, objectives, and controls.
+
+d) Feedback on information security performance:
+
+1) Nonconformities and corrective actions:
+
+Implementation Steps: Track and analyze trends in nonconformities and corrective actions.
+Audit Evidence: Nonconformity register, corrective action reports, and trends analysis.
+2) Monitoring and measurement results:
+
+Implementation Steps: Review and analyze data from monitoring and measurement activities.
+Audit Evidence: Monitoring reports, measurement data logs, and trends analysis.
+
+e) Feedback from interested parties:
+
+Implementation Steps: Analyze feedback received through various channels (e.g., complaints, suggestions).
+
+f) Results of risk assessment and status of risk treatment plan:
+
+Implementation Steps: Review the latest risk assessment results and assess the effectiveness of the risk treatment plan.
+
+g) Opportunities for continual improvement:
+
+Implementation Steps: Identify areas for improvement based on all reviewed information.","The Management Review Team is in place and operational and documented in the document:  Information Security Roles Assigned and Responsibilities.
+
+The management review team meets at least quarterly and the exact schedule is located in the communication plan.
+
+All meetings are minuted including any decisions taken. 
+
+There is a template for the Management Review Team Meeting Agenda, the agenda template covers the requirements of the standard and is seen to be in operation. Evidence of meeting minutes based on the template were seen to be in operation and independently checked against the standard and seen to comply. ",
+9.3,9.3.3,Management review results,,"The results of the management review shall include decisions related to continual improvement opportunities and any needs for changes to the information security management system.
+
+Documented information shall be available as evidence of the results of management reviews.","Review reports from internal audits, incident management, risk assessments, and other relevant sources.
+Analyze feedback from stakeholders and interested parties.
+Consider changes in the internal and external context (e.g., new regulations, threats, technologies).
+Evaluate the effectiveness of existing controls and processes.
+Identify Continual Improvement Opportunities:
+
+Based on the analysis, identify areas for improvement in the ISMS.
+Prioritize opportunities based on their impact on information security, feasibility, and cost.
+Consider potential new controls, processes, or training programs.
+Decide on ISMS Changes:
+
+Determine if any changes are needed to the ISMS scope, objectives, policies, or controls.
+Consider adjustments to risk assessments, training programs, or resource allocation.
+Prioritize changes based on their potential impact and feasibility.
+Document Decisions and Actions:
+
+Record the decisions made during the management review, including identified improvement opportunities and chosen changes to the ISMS.
+Assign clear ownership and deadlines for implementing the chosen actions.","The Management Review Team is in place and operational and documented in the document:  Information Security Roles Assigned and Responsibilities.
+
+The management review team meets at least quarterly and the exact schedule is located in the communication plan.
+
+All meetings are minuted including any decisions taken. 
+
+There is a template for the Management Review Team Meeting Agenda, the agenda template covers the requirements of the standard and is seen to be in operation. Evidence of meeting minutes based on the template were seen to be in operation and independently checked against the standard and seen to comply. ",
+10,,Improvement,,,,,
+10.1,,Continual improvement,,"The organisation shall continually improve the suitability, adequacy and effectiveness of the information security management system.","• Establishing a robust nonconformity identification and reporting process
+• Conducting thorough investigations to identify root causes of nonconformities
+• Defining clear and actionable corrective actions to address nonconformities effectively
+• Efficiently allocating resources and prioritizing corrective actions based on severity and impact
+• Implementing a strong communication plan to inform stakeholders about nonconformities and corrective actions
+• Monitoring the effectiveness of implemented corrective actions and adjusting them as needed
+• Providing training and awareness on nonconformity management processes for all personnel",Document: Continual Improvement Policy and continual improvement process in place and evidenced. ,
+10.2,,Nonconformity and corrective action ,"When a nonconformity occurs, the organisation shall: ","
+a) react to the nonconformity, and as applicable:
+ 1) take action to control and correct it; 
+ 2) deal with the consequences; 
+ b) evaluate the need for action to eliminate the causes of nonconformity, in order that it does not recur or occur elsewhere, by:
+ 1) reviewing the nonconformity;
+ 2) determining the causes of the nonconformity; and
+ 3) determining if similar nonconformities exist, or could potentially occur;
+c) implement any action needed;
+d) review the effectiveness of any corrective action taken; and
+e) make changes to the information security management system, if necessary. 
+
+Corrective actions shall be appropriate to the effects of the nonconformities encountered. 
+
+Documented information shall be available as evidence of:
+
+f ) the nature of the nonconformities and any subsequent actions taken, 
+g) the results of any corrective action.",`,"Continual Improvement Policy and continual improvement process in place and evidenced. A non conformity occurs as a result of audit, incident or observation. 
+
+A continual improvement process is in place and seen to be operating. 
+
+A program of internal audit is conducted and document: Audit Plan sets out the audit plan for the year. Evidence of audits is retained. 
+
+The Incident and Corrective Action Log captures and manages the corrective actions. 
+
+Management Review Team oversees non conformity and corrective action as part of standing agenda and seen to be in operation and meetings minuted. ",
